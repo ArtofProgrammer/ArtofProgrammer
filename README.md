@@ -2,7 +2,6 @@
 - 👀 I’m interested in {HTML,CSS,JAVA SCRIPT}
 - 🌱 I’m currently learning C++ C#
 - 📫 How to reach me shubhamm1989@hotmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to play GAMES
 - 🐱‍👤 I Build Website: I am a weber🕸
 
