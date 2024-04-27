@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtofProgrammer AKA Subho Halder
+- 👋 Hi, I’m @ArtofProgrammer
 - 👀 I’m interested in {HTML,CSS,JAVA SCRIPT}
 - 🌱 I’m currently learning C++ C#
 - 📫 How to reach me shubhamm1989@hotmail.com
